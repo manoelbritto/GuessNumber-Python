@@ -7,7 +7,7 @@ game_repeat = True
 
 # Initial game number
 initial_game_number = rd.randint(0,100)
-print (initial_game_number)
+# print (initial_game_number)
 
 #function with one parameter
 def rate_guess (number):
