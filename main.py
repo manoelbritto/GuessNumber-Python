@@ -42,9 +42,9 @@ while game_repeat:
     game_level = input("To play, type which level you want Easy or Hard? ").lower()
 
     if type_of_game (game_level) == "win":
-        print("Congrats you win")
+        print(f"Congrats you win the number was {initial_game_number}")
     else:
-        print("Sorry you lose")
+        print(f"Sorry you lose the number was {initial_game_number}")
 
     game_ask = input("Would you like to continue yes or no? ").lower()
     if game_ask == 'yes':
