@@ -1,4 +1,6 @@
-logo = """
+
+# http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Guess%20%0AGame
+logo = ""
   ________                              
  /  _____/ __ __   ____   ______ ______ 
 /   \  ___|  |  \_/ __ \ /  ___//  ___/ 
